@@ -1,0 +1,28 @@
+.alerts {
+    margin-top: 1.5rem;
+}
+
+.balance {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin-top: 2rem;
+    padding-top: 0.5rem;
+    border-top: 2px solid #808080;
+}
+
+.container {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: #0070f3 solid 2px;
+    border-radius: 25px;
+}
+
+.backButtonContainer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
